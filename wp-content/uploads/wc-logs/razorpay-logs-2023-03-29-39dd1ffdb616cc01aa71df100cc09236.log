@@ -1,0 +1,174 @@
+2023-03-29T10:26:52+00:00 ERROR Key Id and Key Secret are required.
+2023-03-29T10:26:52+00:00 ERROR The api key provided is invalid
+2023-03-29T10:27:14+00:00 ERROR The api key provided is invalid
+2023-03-29T10:27:19+00:00 ERROR The api key provided is invalid
+2023-03-29T10:27:50+00:00 ERROR The api key provided is invalid
+2023-03-29T10:28:03+00:00 ERROR The api key provided is invalid
+2023-03-29T10:28:47+00:00 ERROR The api key provided is invalid
+2023-03-29T10:30:09+00:00 INFO Called process_payment with params order_id 84
+2023-03-29T10:30:09+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 84
+2023-03-29T10:30:09+00:00 INFO getRazorpayPaymentParams 84
+2023-03-29T10:30:09+00:00 INFO createOrGetRazorpayOrderId 84 and is1ccCheckout is set to no
+2023-03-29T10:30:09+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 84 and is_magic_checkout_order is set to no
+2023-03-29T10:30:09+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id84
+2023-03-29T10:30:09+00:00 INFO Called createRazorpayOrderId with params orderId 84 and sessionKey razorpay_order_id84
+2023-03-29T10:30:09+00:00 INFO Called getOrderCreationData with params orderId 84
+2023-03-29T10:30:09+00:00 INFO Called getOrderCreationData with params orderId 84 and is1ccOrder is set to no
+2023-03-29T10:30:09+00:00 INFO For order 84
+2023-03-29T10:30:09+00:00 INFO {"receipt":84,"amount":79800,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"84"}}
+2023-03-29T10:30:10+00:00 INFO getRazorpayPaymentParams 84
+2023-03-29T10:30:10+00:00 INFO createOrGetRazorpayOrderId 84 and is1ccCheckout is set to no
+2023-03-29T10:30:10+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 84 and is_magic_checkout_order is set to no
+2023-03-29T10:30:10+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id84
+2023-03-29T10:30:10+00:00 INFO Called createRazorpayOrderId with params orderId 84 and sessionKey razorpay_order_id84
+2023-03-29T10:30:10+00:00 INFO Called getOrderCreationData with params orderId 84
+2023-03-29T10:30:10+00:00 INFO Called getOrderCreationData with params orderId 84 and is1ccOrder is set to no
+2023-03-29T10:30:10+00:00 INFO For order 84
+2023-03-29T10:30:10+00:00 INFO {"receipt":84,"amount":79800,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"84"}}
+2023-03-29T10:32:19+00:00 ERROR The api key provided is invalid
+2023-03-29T10:32:27+00:00 ERROR The api key provided is invalid
+2023-03-29T10:42:31+00:00 ERROR The api key provided is invalid
+2023-03-29T10:53:57+00:00 ERROR The api key provided is invalid
+2023-03-29T10:54:03+00:00 ERROR The api key provided is invalid
+2023-03-29T10:54:04+00:00 ERROR The api key provided is invalid
+2023-03-29T10:54:06+00:00 ERROR The api key provided is invalid
+2023-03-29T10:54:14+00:00 ERROR The api key provided is invalid
+2023-03-29T10:57:38+00:00 ERROR The api key provided is invalid
+2023-03-29T10:57:46+00:00 ERROR The api key provided is invalid
+2023-03-29T10:57:48+00:00 ERROR The api key provided is invalid
+2023-03-29T10:57:49+00:00 ERROR The api key provided is invalid
+2023-03-29T10:58:16+00:00 ERROR The api key provided is invalid
+2023-03-29T10:58:22+00:00 ERROR The api key provided is invalid
+2023-03-29T10:58:24+00:00 ERROR The api key provided is invalid
+2023-03-29T10:58:33+00:00 ERROR The api key provided is invalid
+2023-03-29T10:58:34+00:00 ERROR The api key provided is invalid
+2023-03-29T11:18:40+00:00 ERROR The api key provided is invalid
+2023-03-29T11:18:47+00:00 ERROR The api key provided is invalid
+2023-03-29T12:01:07+00:00 ERROR The api key provided is invalid
+2023-03-29T12:01:19+00:00 ERROR The api key provided is invalid
+2023-03-29T12:01:20+00:00 ERROR The api key provided is invalid
+2023-03-29T12:02:02+00:00 ERROR The api key provided is invalid
+2023-03-29T12:03:42+00:00 ERROR The api key provided is invalid
+2023-03-29T12:03:47+00:00 ERROR The api key provided is invalid
+2023-03-29T12:03:49+00:00 ERROR The api key provided is invalid
+2023-03-29T12:03:52+00:00 ERROR The api key provided is invalid
+2023-03-29T12:04:10+00:00 ERROR The api key provided is invalid
+2023-03-29T12:04:12+00:00 ERROR The api key provided is invalid
+2023-03-29T12:04:47+00:00 ERROR The api key provided is invalid
+2023-03-29T12:04:49+00:00 ERROR The api key provided is invalid
+2023-03-29T12:05:16+00:00 ERROR The api key provided is invalid
+2023-03-29T12:06:04+00:00 ERROR The api key provided is invalid
+2023-03-29T12:06:15+00:00 ERROR The api key provided is invalid
+2023-03-29T12:07:35+00:00 ERROR The api key provided is invalid
+2023-03-29T12:08:37+00:00 ERROR The api key provided is invalid
+2023-03-29T12:08:38+00:00 ERROR The api key provided is invalid
+2023-03-29T12:09:03+00:00 ERROR The api key provided is invalid
+2023-03-29T12:09:09+00:00 ERROR The api key provided is invalid
+2023-03-29T12:09:54+00:00 ERROR The api key provided is invalid
+2023-03-29T12:09:55+00:00 ERROR The api key provided is invalid
+2023-03-29T12:11:03+00:00 ERROR The api key provided is invalid
+2023-03-29T12:11:04+00:00 ERROR The api key provided is invalid
+2023-03-29T12:11:15+00:00 ERROR The api key provided is invalid
+2023-03-29T12:11:20+00:00 ERROR The api key provided is invalid
+2023-03-29T12:11:43+00:00 ERROR The api key provided is invalid
+2023-03-29T12:11:44+00:00 ERROR The api key provided is invalid
+2023-03-29T12:12:17+00:00 ERROR The api key provided is invalid
+2023-03-29T12:12:28+00:00 ERROR The api key provided is invalid
+2023-03-29T12:12:30+00:00 ERROR The api key provided is invalid
+2023-03-29T12:13:02+00:00 ERROR The api key provided is invalid
+2023-03-29T12:13:44+00:00 ERROR The api key provided is invalid
+2023-03-29T12:15:03+00:00 ERROR The api key provided is invalid
+2023-03-29T12:15:12+00:00 ERROR The api key provided is invalid
+2023-03-29T12:16:43+00:00 ERROR The api key provided is invalid
+2023-03-29T12:16:44+00:00 ERROR The api key provided is invalid
+2023-03-29T12:17:28+00:00 ERROR The api key provided is invalid
+2023-03-29T12:17:29+00:00 ERROR The api key provided is invalid
+2023-03-29T12:17:29+00:00 ERROR The api key provided is invalid
+2023-03-29T12:17:39+00:00 ERROR The api key provided is invalid
+2023-03-29T12:17:40+00:00 ERROR The api key provided is invalid
+2023-03-29T12:17:45+00:00 ERROR The api key provided is invalid
+2023-03-29T12:18:16+00:00 ERROR The api key provided is invalid
+2023-03-29T12:18:20+00:00 ERROR The api key provided is invalid
+2023-03-29T12:18:21+00:00 ERROR The api key provided is invalid
+2023-03-29T12:18:34+00:00 ERROR The api key provided is invalid
+2023-03-29T12:18:35+00:00 ERROR The api key provided is invalid
+2023-03-29T12:19:34+00:00 ERROR The api key provided is invalid
+2023-03-29T12:19:35+00:00 ERROR The api key provided is invalid
+2023-03-29T12:19:36+00:00 ERROR The api key provided is invalid
+2023-03-29T12:19:42+00:00 ERROR The api key provided is invalid
+2023-03-29T12:20:46+00:00 ERROR The api key provided is invalid
+2023-03-29T12:22:01+00:00 ERROR The api key provided is invalid
+2023-03-29T12:22:02+00:00 ERROR The api key provided is invalid
+2023-03-29T12:22:36+00:00 ERROR The api key provided is invalid
+2023-03-29T12:22:41+00:00 ERROR The api key provided is invalid
+2023-03-29T12:22:57+00:00 ERROR The api key provided is invalid
+2023-03-29T12:22:58+00:00 ERROR The api key provided is invalid
+2023-03-29T12:23:55+00:00 ERROR The api key provided is invalid
+2023-03-29T12:23:56+00:00 ERROR The api key provided is invalid
+2023-03-29T12:24:42+00:00 ERROR The api key provided is invalid
+2023-03-29T12:24:43+00:00 ERROR The api key provided is invalid
+2023-03-29T12:25:15+00:00 ERROR The api key provided is invalid
+2023-03-29T12:25:16+00:00 ERROR The api key provided is invalid
+2023-03-29T12:27:41+00:00 ERROR The api key provided is invalid
+2023-03-29T12:27:42+00:00 ERROR The api key provided is invalid
+2023-03-29T12:27:43+00:00 ERROR The api key provided is invalid
+2023-03-29T12:27:44+00:00 ERROR The api key provided is invalid
+2023-03-29T12:29:25+00:00 ERROR The api key provided is invalid
+2023-03-29T12:29:26+00:00 ERROR The api key provided is invalid
+2023-03-29T12:30:15+00:00 ERROR The api key provided is invalid
+2023-03-29T12:38:33+00:00 ERROR The api key provided is invalid
+2023-03-29T12:38:35+00:00 ERROR The api key provided is invalid
+2023-03-29T12:38:41+00:00 ERROR The api key provided is invalid
+2023-03-29T12:38:42+00:00 ERROR The api key provided is invalid
+2023-03-29T12:38:46+00:00 ERROR The api key provided is invalid
+2023-03-29T12:44:21+00:00 ERROR The api key provided is invalid
+2023-03-29T12:44:27+00:00 ERROR The api key provided is invalid
+2023-03-29T12:48:25+00:00 ERROR The api key provided is invalid
+2023-03-29T12:48:31+00:00 ERROR The api key provided is invalid
+2023-03-29T12:48:34+00:00 ERROR The api key provided is invalid
+2023-03-29T12:50:02+00:00 ERROR The api key provided is invalid
+2023-03-29T12:50:07+00:00 ERROR The api key provided is invalid
+2023-03-29T12:50:35+00:00 ERROR The api key provided is invalid
+2023-03-29T12:50:35+00:00 ERROR The api key provided is invalid
+2023-03-29T12:51:22+00:00 ERROR The api key provided is invalid
+2023-03-29T12:51:24+00:00 ERROR The api key provided is invalid
+2023-03-29T12:51:27+00:00 ERROR The api key provided is invalid
+2023-03-29T12:51:55+00:00 ERROR The api key provided is invalid
+2023-03-29T12:51:56+00:00 ERROR The api key provided is invalid
+2023-03-29T12:52:12+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:03+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:08+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:15+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:16+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:23+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:24+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:28+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:43+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:46+00:00 ERROR The api key provided is invalid
+2023-03-29T12:53:47+00:00 ERROR The api key provided is invalid
+2023-03-29T12:54:14+00:00 ERROR The api key provided is invalid
+2023-03-29T12:54:22+00:00 ERROR The api key provided is invalid
+2023-03-29T12:54:36+00:00 ERROR The api key provided is invalid
+2023-03-29T12:55:23+00:00 ERROR The api key provided is invalid
+2023-03-29T12:55:24+00:00 ERROR The api key provided is invalid
+2023-03-29T12:55:46+00:00 ERROR The api key provided is invalid
+2023-03-29T12:56:18+00:00 ERROR The api key provided is invalid
+2023-03-29T12:56:27+00:00 ERROR The api key provided is invalid
+2023-03-29T12:56:37+00:00 ERROR The api key provided is invalid
+2023-03-29T12:56:47+00:00 ERROR The api key provided is invalid
+2023-03-29T12:57:15+00:00 ERROR The api key provided is invalid
+2023-03-29T12:57:38+00:00 ERROR The api key provided is invalid
+2023-03-29T12:57:40+00:00 ERROR The api key provided is invalid
+2023-03-29T12:58:50+00:00 ERROR The api key provided is invalid
+2023-03-29T12:58:57+00:00 ERROR The api key provided is invalid
+2023-03-29T12:59:16+00:00 ERROR The api key provided is invalid
+2023-03-29T12:59:34+00:00 ERROR The api key provided is invalid
+2023-03-29T12:59:43+00:00 ERROR The api key provided is invalid
+2023-03-29T12:59:50+00:00 ERROR The api key provided is invalid
+2023-03-29T12:59:54+00:00 ERROR The api key provided is invalid
+2023-03-29T12:59:57+00:00 ERROR The api key provided is invalid
+2023-03-29T13:00:39+00:00 ERROR The api key provided is invalid
+2023-03-29T13:00:40+00:00 ERROR The api key provided is invalid
+2023-03-29T13:00:41+00:00 ERROR The api key provided is invalid
+2023-03-29T13:00:43+00:00 ERROR The api key provided is invalid
+2023-03-29T13:00:46+00:00 ERROR The api key provided is invalid
