@@ -10,3 +10,4 @@ while (have_posts()) : the_post(); ?>
     <p><?php the_excerpt(); ?></p>
 <?php endwhile;
 get_footer();
+
